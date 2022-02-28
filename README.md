@@ -1,7 +1,7 @@
 <h1 align='center'> Discord UI Clone</h1>
 <p align='center'>Discord UI clone (static until I got the guts to mess with it) to train ReactJS</p>
 
-<p align='center'>Deployed <a href='#'>here<a> </p>
+<p align='center'>😉</p>
 
 <img src='./src/assets/preview.jpg' /><br><br>
 
