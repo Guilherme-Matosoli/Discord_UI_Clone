@@ -20,7 +20,7 @@
 
 - Step 1 - Extract the files to your machine
 - Step 2 - Open the terminal at the files adress
-- Setp 3 - Execute yarn start (or npm run dev)
+- Setp 3 - Execute yarn start
 
 <h2 align='center'>Thanks for your attention<h2>
 
